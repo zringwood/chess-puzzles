@@ -6,7 +6,7 @@ export default function Header() {
             <nav className = "navbar">
                 <ul className = "navbar__list">
                     <li >
-                    <NavLink className="navbar__link" to ="/">Puzzles</NavLink>
+                    <NavLink className="navbar__link" to ="/1">Puzzles</NavLink>
                     </li>
                     <li >
                     <NavLink className="navbar__link" to ="/rules">Rules</NavLink>
