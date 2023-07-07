@@ -1,0 +1,17 @@
+.navbar{
+    &__list{
+        padding:0;
+        display:flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        list-style-type: none;
+    }
+    &__link{
+        text-decoration: none;
+        color:black;
+        padding: 1rem;
+    }
+}
+.active{
+    background-color: rgb(181, 136,99);
+}
