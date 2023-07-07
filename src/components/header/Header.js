@@ -7,7 +7,7 @@ export default function Header() {
             <nav>
                 <ul>
                     <li>
-                       <Link to ="/">Puzzles</Link>
+                    <Link to ="/">Puzzles</Link>
                     </li>
                     <li>
                     <Link to ="/rules">Rules</Link>
