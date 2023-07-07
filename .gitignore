@@ -7,9 +7,12 @@
 
 # testing
 /coverage
+convertToJSON.js
+convertToJSON.py
 
 # production
 /build
+MateenDos.pgn
 
 # misc
 .DS_Store
